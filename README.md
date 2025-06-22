@@ -5,4 +5,4 @@ By day, I develop applications, automate developer processes, and streamline rel
 By night, I read, play video games, and work on projects that pique my interest.
 
 ## GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geistindersh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&count_weight=0.5&size_weight=0.5&exclude_repo=P2P-Bingo,ASU-Latex-Template)
+![](https://github-readme-stats-git-master-matthews-projects-6327467c.vercel.app/api/top-langs/?username=geistindersh&theme=tokyonight&hide_border=true&layout=compact&count_private=true&count_weight=0.5&size_weight=0.5)
